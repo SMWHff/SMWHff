@@ -85,4 +85,3 @@ Wakatime周统计
   - 二级列表3
 
 
-特效由 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats "github-readme-stats") 提供
