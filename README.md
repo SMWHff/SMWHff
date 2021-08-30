@@ -19,14 +19,11 @@ GitHub自述卡
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SMWHff&repo=Sm_Thread_QML" />
 </a>
 
-
-
-GitHub统计卡
+GitHub统计卡 - 置顶语言卡
 ------------
-![SMWHff's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMWHff&show_icons=true&theme=tokyonight)
-
-
-
-置顶语言卡
-------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMWHff)](https://github.com/SMWHff/Sm_LDMNQ_QML)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SMWHff&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/SMWHff/Sm_LDMNQ_QML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMWHff" />
+</a>
