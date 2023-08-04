@@ -1,5 +1,5 @@
 - 👋 SMWHff
-- 📫 SMWHff@163.com
+- 📫 SMWHff@outlook.com
 
 <!---
 SMWHff/SMWHff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
